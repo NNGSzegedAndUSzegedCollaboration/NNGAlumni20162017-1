@@ -1,4 +1,4 @@
-package hu.javadev.tdd.testingdemo;
+package com.nng.alumni.tdd;
 
 import java.util.Arrays;
 

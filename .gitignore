@@ -1,3 +1,8 @@
 *.prefs
 *.ini
 *.bin
+.metadata/*
+*.lock
+TDDExample/.gradle/2.2.1/taskArtifacts/cache.properties
+*.classpath
+RemoteSystemsTempFiles/.project
